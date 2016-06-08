@@ -1,3 +1,5 @@
+* 1.0.2
+  - ahahah
 * 1.0.1
   - add test file
 
