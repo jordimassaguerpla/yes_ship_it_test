@@ -1,3 +1,4 @@
+* 1.0.34
 * 1.0.33
 * 1.0.3
   - test pushing master
